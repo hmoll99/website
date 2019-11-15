@@ -1,0 +1,29 @@
+<!DOCTYPE css>
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: #0089c9;
+	text-decoration: none;
+}
+
+.testclass {
+	background-image: url(blue.png);
+}
+
+body {
+	height: 1000px;
+	width: 870px;
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 18px;
+	color: black;
+	background: linear-gradient(to right,transparent 11.5%, white 10%, white 87.5%,transparent 0),url(blue.png);
+}
+
+h1 {
+	color: black;
+	font-size: 24px;
+}
